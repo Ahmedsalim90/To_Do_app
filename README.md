@@ -2,6 +2,8 @@
 
 A clean, minimal to-do list app built with Flutter. Add tasks, mark them as complete, and remove them with a satisfying swipe — all wrapped in a deep purple theme.
 
+**Author:** [Ahmedsalim90](https://github.com/Ahmedsalim90)
+
 ## ✨ Features
 
 - **Add tasks** — Type a task into the input field and tap the `+` button to add it to your list.
@@ -90,6 +92,10 @@ If you're new to Flutter, these resources are a great starting point:
 - [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 - [Flutter documentation](https://docs.flutter.dev/)
+
+## 🙏 Acknowledgments
+
+- Built and maintained by **[The Alchemist](https://github.com/Ahmedsalim90)**.
 
 ## 📄 License
 
