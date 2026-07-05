@@ -1,4 +1,4 @@
-# 📝 Simple ToDo
+# 📝 Tasko 
 
 A clean, minimal to-do list app built with Flutter. Add tasks, mark them as complete, and remove them with a satisfying swipe — all wrapped in a deep purple theme.
 
